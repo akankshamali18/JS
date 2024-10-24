@@ -1,0 +1,12 @@
+a =10;
+b = null;
+let c;
+d = true;
+e = "S";
+console.log(typeof a);
+console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof c);
+console.log(typeof d);
+console.log(typeof e);
+console.log(typeof Symbol);
